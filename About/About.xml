@@ -15,6 +15,6 @@
 	<description>
 		Github link is https://github.com/dougbenham/Rimworld-SquadAttackEvenWithSameWeapon
 		
-		Currently if you have a squad of pawns with the same primary weapon, the attack gizmo doesn't work. This will fix it so that the squad attack command is used.
+		Currently if you have a squad of pawns with the same primary weapon, plus they have some combination of Eagle Eye power and Mini-turret Gun accessory, the attack gizmo doesn't work. This will fix it so that the squad attack command is used.
     </description>
 </ModMetaData>
